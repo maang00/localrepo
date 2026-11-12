@@ -1,0 +1,12 @@
+h1{
+    color: aqua;
+}
+h2{
+    color: brown;
+}
+p{
+    color: chartreuse;
+}
+p{
+    animation: n 1s reverse 1s 10;
+}
